@@ -10,7 +10,7 @@ All the Letter of Recommendations earned through Internships (Both Technical &am
 GeeksforGeeks
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/GeeksforGeeks"> Click here to see </a>
 </td>
 </tr>
 
@@ -19,7 +19,7 @@ GeeksforGeeks
 GirlScript Foundation
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/GirlScript%20Foundation"> Click here to see </a>
 </td>
 </tr>
 
@@ -28,7 +28,7 @@ GirlScript Foundation
 Coding Blocks
 </td>
 <td>
-<a href==""> Click here to see </a></td>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Coding%20Blocks"> Click here to see </a></td>
 </tr>
 
 <tr>
@@ -36,7 +36,7 @@ Coding Blocks
 Coding Ninjas
 </td>
 <td>
-<a href==""> Click here to see </a></td>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Coding%20Ninjas"> Click here to see </a></td>
 </tr>
 
 <tr>
@@ -44,7 +44,7 @@ Coding Ninjas
 Kaloory
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Kaloory"> Click here to see </a>
 </td>
 </tr>
 
@@ -53,7 +53,7 @@ Kaloory
 Unschool
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Unschool"> Click here to see </a>
 </td>
 </tr>
   
@@ -62,7 +62,7 @@ Unschool
 Expertrons
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Expertrons"> Click here to see </a>
 </td>
 </tr>
 
@@ -72,7 +72,7 @@ Expertrons
 Juntrax Solutions
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Juntrax%20Solutions"> Click here to see </a>
 </td>
 </tr>
 
@@ -81,7 +81,7 @@ Juntrax Solutions
 Internshala
 </td>
 <td>
-<a href==""> Click here to see </a></td>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Internshala"> Click here to see </a></td>
 </tr>
 
 <tr>
@@ -89,7 +89,7 @@ Internshala
 LetsGrowMore
 </td>
 <td>
-<a href=="">Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/LetsGrowMore">Click here to see </a>
 </td>
 </tr>
   
@@ -98,7 +98,7 @@ LetsGrowMore
 The Sparks Foundation
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/The%20Sparks%20Foundation"> Click here to see </a>
 </td>
 </tr>
 
@@ -107,7 +107,7 @@ The Sparks Foundation
 National Engineering Olympiad
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/National%20Engineering%20Olympiad"> Click here to see </a>
 </td>
 </tr>
   
@@ -116,7 +116,7 @@ National Engineering Olympiad
 HackerEarth
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/HackerEarth"> Click here to see </a>
 </td>
 </tr>
 
@@ -125,7 +125,7 @@ HackerEarth
 Cerebro Team
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Cerebro%20Team"> Click here to see </a>
 </td>
 </tr>
 
@@ -134,7 +134,7 @@ Cerebro Team
 EveryTute
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/EveryTute"> Click here to see </a>
 </td>
 </tr>
    
@@ -143,7 +143,7 @@ EveryTute
 DigiFuse
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Digifuse"> Click here to see </a>
 </td>
 </tr>
 
@@ -152,7 +152,7 @@ DigiFuse
 International Model United Nations
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/International%20Model%20United%20Nations"> Click here to see </a>
 </td>
 </tr>
   
@@ -161,6 +161,6 @@ International Model United Nations
 Prepbytes
 </td>
 <td>
-<a href==""> Click here to see </a>
+<a href=="https://github.com/Rajspeaks/Recommendation-Letters/tree/main/Prepbytes"> Click here to see </a>
 </td>
 </tr>
