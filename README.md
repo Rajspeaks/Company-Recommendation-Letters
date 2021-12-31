@@ -41,10 +41,10 @@ Coding Ninjas
 
 <tr>
 <td>
-GSSoC'20
+Kaloory
 </td>
 <td>
-<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSoC'20%20Participant-%20Rajdeep%20Das.pdf">GirlScript Summer of Code 2020- Open Source Contributor</a>
+<a href==""> Click here to see </a>
 </td>
 </tr>
 
