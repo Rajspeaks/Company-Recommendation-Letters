@@ -242,6 +242,26 @@ The Uplift Project 2021
 <a href="https://github.com/Rajspeaks/Recommendation-Letters/blob/main/The%20Uplift%20Project/Uplift%20Project%20LOR.pdf"> Project Mentor & Cooridnator </a>
 </td>
 </tr>
+ 
+<tr>
+<td> 24 </td>
+<td>
+The Uplift Project 2021
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Recommendation-Letters/blob/main/The%20Uplift%20Project/Uplift%20Project%20LOR.pdf"> Project Mentor & Cooridnator </a>
+</td>
+</tr>
+ 
+ <tr>
+ <td> 25 </td>
+<td>
+ GirlScript Foundation
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Company-Recommendation-Letters/blob/main/GirlScript%20Foundation/GSSoC%2021%20Web%20DevLOR.pdf"> Web Developer </a>
+</td>
+</tr>
 
  </table>
  
