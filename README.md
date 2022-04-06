@@ -1,7 +1,7 @@
 ![letter](https://user-images.githubusercontent.com/44817007/147838640-297ccbb7-c0d3-4ed7-b33b-f8acf21368bb.jpg)
 
 
-# Recommendation-Letters
+# Recommendation Letters
 All the Letter of Recommendations earned through Internships (Both Technical &amp; Non-technical), Competitive Technical Events, Contributions
 
 ## List of all the Letter of Recommendations:
