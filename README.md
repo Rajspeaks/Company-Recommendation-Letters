@@ -121,7 +121,7 @@ Internshala
 Internshala
 </td>
 <td>
-<a href="https://github.com/Rajspeaks/Recommendation-Letters/blob/main/Internshala/ISP%2019%20Community%20Management%20Internship%20Completion%20Letter.pdf"> Community Leader </a></td>
+<a href="https://github.com/Rajspeaks/Recommendation-Letters/blob/main/Internshala/ISP%2019%20Community%20Management%20Internship%20Completion%20Letter.pdf"> Community Manager </a></td>
 </tr>
  
   <tr>
@@ -130,7 +130,7 @@ Internshala
 Internshala
 </td>
 <td>
-<a href="https://github.com/Rajspeaks/Recommendation-Letters/blob/main/Internshala/ISP%2019%20Community%20Marketing%20Lead%20Internship%20Completion%20Letter.pdf"> Community Leader </a></td>
+<a href="https://github.com/Rajspeaks/Recommendation-Letters/blob/main/Internshala/ISP%2019%20Community%20Marketing%20Lead%20Internship%20Completion%20Letter.pdf"> Community Marketing Leader </a></td>
 </tr>
  
 <tr>
