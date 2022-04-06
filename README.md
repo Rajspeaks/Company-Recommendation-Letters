@@ -263,6 +263,16 @@ The Uplift Project 2021
 <a href="https://github.com/Rajspeaks/Company-Recommendation-Letters/blob/main/Viral%20Fission/Viral%20Fission.pdf"> Youth Ambassador </a>
 </td>
 </tr>
+ 
+<tr>
+<td> 27 </td>
+<td>
+Internshala
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Company-Recommendation-Letters/blob/main/Internshala/Internshala%20Registration%20Contest%20LOR.pdf"> Contest Specific Campaign Lead </a>
+</td>
+</tr>
 
  </table>
  
