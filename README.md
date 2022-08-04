@@ -273,6 +273,16 @@ Internshala
 <a href="https://github.com/Rajspeaks/Company-Recommendation-Letters/blob/main/Internshala/Internshala%20Registration%20Contest%20LOR.pdf"> Contest Specific Campaign Lead </a>
 </td>
 </tr>
+ 
+ <tr>
+<td> 28 </td>
+<td>
+GirlScript Foundation
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Company-Recommendation-Letters/blob/main/GirlScript%20Foundation/Rajdeep%20%20Das%20Mentorship%20LOR-%20GSSOC'22.pdf">GSSoC'22 Mentorship LOR </a>
+</td>
+</tr>
 
  </table>
  
